@@ -19,8 +19,6 @@ class AuthBloc{
 
     }catch(e){
       print(e);
-
-      
     }
   }
   logOut(){
